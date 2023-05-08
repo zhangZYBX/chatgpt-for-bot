@@ -20,7 +20,7 @@ aiohttp~=3.8.4
 OpenAIAuth~=0.3.6
 urllib3~=1.26.15
 
-requests~=2.28.2
+requests~=2.30.0
 uuid~=1.30
 
 python-telegram-bot==20.2
